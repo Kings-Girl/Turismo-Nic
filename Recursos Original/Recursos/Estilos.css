@@ -1,0 +1,70 @@
+body {background: url('../Imágenes/Mosaico.jpg') repeat;
+    background-size: cover;
+text-align: center;
+color: black;
+
+
+}
+
+#Banner { background-color: khaki;
+    font-size: 30px;
+
+}
+
+img {float: left;
+    text-align: right;
+}
+
+#Inicio a:hover {
+color: rgb(224, 66, 66);
+font: size 30px;
+}
+#Inicio a {
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+}
+
+#Tablas a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#Tablas {
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: justify;
+}
+
+#Listas {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    float: left;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #000;
+    padding-top: 30px;
+ }
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    font-size: 30px;
+ 
+
+}
+
+#Encabezado {
+    padding: 15px;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: 30px;
+    color: black;
+    
+}
